@@ -1,0 +1,20 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-06-02T13:27:01</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2017.1.3.0.0</property>
+    <property name="modified">2017-06-02T13:28:40</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Powerline Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Helvetica" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+</scheme>
