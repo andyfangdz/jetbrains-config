@@ -99,6 +99,11 @@
     <option name="USE_ALTERNATE_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="INDENT_BRACED_FUNCTION_ARGS" value="false" />
   </ScalaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+  </TypeScriptCodeStyleSettings>
   <ADDITIONAL_INDENT_OPTIONS fileType="haml">
     <option name="INDENT_SIZE" value="2" />
   </ADDITIONAL_INDENT_OPTIONS>
